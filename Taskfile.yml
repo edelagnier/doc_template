@@ -1,0 +1,9 @@
+version: '3'
+
+tasks:
+  default:
+    cmds:
+      - task --list-all
+  run:
+    cmds:
+      - bundle exec jekyll serve

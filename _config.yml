@@ -1,8 +1,17 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Multi DOC
+description: Modéle de documentation 
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Multi: https://multi.coop
+aux_links_new_tab: true
+
+mermaid:
+  version: "10.0.8"
+
+callouts:
+  note:
+    title: Note
+    color: blue
